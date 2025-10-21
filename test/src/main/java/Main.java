@@ -7,6 +7,5 @@ public class Main {
         System.out.println("asdAS");
         System.out.println("asdAS");
         System.out.println("asdAS");
-        System.out.println("asdAS");
     }
 }
